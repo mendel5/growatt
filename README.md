@@ -12,5 +12,8 @@ Note: Some content is focused on Germany.
 
 Source: https://www.computerbase.de/forum/threads/anker-solix-rs40p-im-test-steckerfertige-mini-pv-anlage-mit-balkonhalterung.2141563/#post-28144202
 
+The following link seems to be the right one:
+- https://diysolarforum.com/threads/changing-mode-on-growatt-mic-series-changes-rated-output-power.60674/ changing Mode on Growatt MIC-Series changes rated output power
+
 ## Links
 - Example product: Growatt MIC 600TL-X https://geizhals.de/growatt-mic-600tl-x-a2787099.html
